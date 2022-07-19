@@ -7,3 +7,6 @@
 #### Frontend - 
 1. Go to frontend folder
 2. Run `npm start`
+
+
+!! If you are not redirected after login, Please reload.
